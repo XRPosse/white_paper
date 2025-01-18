@@ -84,23 +84,19 @@ A community space for artists, developers, and nature enthusiasts to collaborate
 ### Roadmap
 
 - **Phase 1:** 
-  - Rewards Program Starts (Date TBD in first quarter)
+  - Rewards Program Starts
   - Discord Xaman App Beta
-  - NFT Gated Shipping Form
-  - Posse Puppet Web Site Development
   - Launch of first Posse Paper Puppet NFTs
   - Start of POSSE Den Discord Server
 
 - **Phase 2:** 
-  - More Critter NFTs
-  - Xrposse.com Puppet Ordering Goes Live (beta)
+  - Posse Web Site Update
   - PPPP Alliance
+  - More Critter NFTs
 
 - **Phase 3:** 
-  - PPPP Puppet Sales to Non-NFT Holders
+  - 2 pools on different non XRPL chains
   - More Critter NFTs
 
 - **Phase 4:** 
-  - Further Development on Web Tools
-  - Smart Contract/Hooks Plan
-  - Keep Grinding! (Q4 '25)
+  - Release of Developer Tools
